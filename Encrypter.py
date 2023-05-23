@@ -23,4 +23,3 @@ new_file = open(f'{new_file}','wb')
 new_file.write(crypto_data)
 new_file.close()
 
-![crip mensagempy](https://github.com/QueziaGodoy/cibersecurity-desafio-ransomware/assets/63246915/2ea1304e-e445-4171-a94d-853ab815473a)
